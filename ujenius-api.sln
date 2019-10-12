@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.29403.142
+VisualStudioVersion = 16.0.29409.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ujenius-api", "ujenius-api\ujenius-api.csproj", "{ACDCE19F-44D2-443C-8016-05B8C7B29CCD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ujenius-api", "ujenius-api\ujenius-api.csproj", "{1C38702C-03A3-4F5B-BDAF-9D09FC855B2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ACDCE19F-44D2-443C-8016-05B8C7B29CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ACDCE19F-44D2-443C-8016-05B8C7B29CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ACDCE19F-44D2-443C-8016-05B8C7B29CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ACDCE19F-44D2-443C-8016-05B8C7B29CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C38702C-03A3-4F5B-BDAF-9D09FC855B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C38702C-03A3-4F5B-BDAF-9D09FC855B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C38702C-03A3-4F5B-BDAF-9D09FC855B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C38702C-03A3-4F5B-BDAF-9D09FC855B2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FD243CE5-4C0E-45ED-8CED-A382F49A0124}
+		SolutionGuid = {95D7EFB7-A20D-4FDC-B0F0-C6A0A8A9AC94}
 	EndGlobalSection
 EndGlobal
