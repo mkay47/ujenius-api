@@ -9,6 +9,7 @@ using Microsoft.IdentityModel.Tokens;
 using ujenius_api.Models;
 using Swashbuckle.AspNetCore.Swagger;
 using System.Text;
+using ujenius_api.Orchestration;
 
 namespace ujenius_api
 {
@@ -38,6 +39,8 @@ namespace ujenius_api
             InjectCors(services);
 
             InjectJWT(services);
+
+            services.AddSingleton<IDataOrchestration, DataOrchestration>();
         }
 
         private void InjectJWT(IServiceCollection services)
